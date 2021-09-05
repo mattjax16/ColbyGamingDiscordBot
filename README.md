@@ -17,7 +17,7 @@ This is a discord bot for the Colby College Gaming discord made out of python
 
 ---
 ### TO RUN:
-1. 
+1. python bot.py
 
 ---
 

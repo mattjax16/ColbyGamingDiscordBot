@@ -1,3 +1,6 @@
 .env
 
+#pychare ide files
+.idea
+
 __pycache__
